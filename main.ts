@@ -27,7 +27,7 @@ controller.left.onEvent(ControllerButtonEvent.Pressed, function () {
     )
 })
 scene.onOverlapTile(SpriteKind.Player, assets.tile`old mans wooden sword`, function (sprite, location) {
-    game.showLongText("Its dangerous to go alone here take this", DialogLayout.Bottom)
+    game.showLongText("Its dangerous to go alone here take this!", DialogLayout.Bottom)
     pause(1000)
     tiles.setCurrentTilemap(tilemap`old man cave0`)
 })
