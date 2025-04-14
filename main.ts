@@ -63,7 +63,7 @@ info.onLifeZero(function () {
     music.setVolume(255)
 })
 let mySprite: Sprite = null
-info.setScore(3)
+info.setLife(3)
 tiles.setCurrentTilemap(tilemap`the level`)
 mySprite = sprites.create(assets.image`link`, SpriteKind.Player)
 controller.moveSprite(mySprite)
