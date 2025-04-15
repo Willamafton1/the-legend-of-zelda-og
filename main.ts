@@ -63,6 +63,10 @@ info.onLifeZero(function () {
     music.setVolume(255)
 })
 let mySprite: Sprite = null
+namespace userconfig {
+    export const ARCADE_SCREEN_WIDTH = 260
+    export const ARCADE_SCREEN_HEIGHT = 200
+}
 info.setLife(3)
 tiles.setCurrentTilemap(tilemap`the level`)
 mySprite = sprites.create(assets.image`link`, SpriteKind.Player)

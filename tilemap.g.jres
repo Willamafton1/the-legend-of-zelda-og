@@ -1,62 +1,14 @@
 {
-    "tile2": {
-        "data": "hwQQABAAAADd3d3d3f//33d9d3d33d3f93d3d3d3d933d3d3d3f33Xf////////dd3d3d3d39913d3d3d3f33Xd3d3d3d//df3d39///393////////d3f///9/d3d3d3d393d3d3d13d/fd3d3d3X93393d3d3d///d3d3d3d3/393d3d3d3Q==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "legend of zelda corner tile 1"
-    },
-    "tile4": {
-        "data": "hwQQABAAAAD/393d3d3d3f//3d3d3d3df3ff3d3d3d13d/fd3d3d3d3d/d3d3d3d////393d3d3////////d3X93d/f//9/dd3d3d3d3/913d3d3d3f33Xd3d3d3d/fdd////////933d3d3d3f33fd3d3d3d3fdd313d3fd3d/d3d3d3f//3w==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "legend of zelda corner tile 2"
-    },
-    "tile5": {
-        "data": "hwQQABAAAAD9///d3d3d3f3d3Xd3d9933Xf/d3f/d3/df/d/d393f93///////933X93d3d/d3/df3d3d393f93/d3d3f3f33f3//393d/fd3f///////93d3d39////3d3d3d3f3d3d3d3d3X93d93d3d3d/Xf33d3d3d3d///d3d3d3d39/w==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "legend of zelda corner tile 4"
-    },
-    "tile6": {
-        "data": "hwQQABAAAADd3d3d3d39/93d3d3d3f//3d3/////d/fd/X93d393d939d3d3393d3f13d/f////d/f///////93///9/d3f3/f93d3d/d/f/f3d3d393f393d3d3f3d/f////////3d/f/d/d393f3d3/3d3/3d/993dd3d333f3///d3d3d3Q==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "legend of zelda corner tile 3"
-    },
     "transparency16": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
-    },
-    "tile7": {
-        "data": "hwQQABAAAADd3d3d3d3dcd3d3d3d3f8R3d3d3d39///d3d3d3f1/F93d3d3d/3cX3d3d3f1/dxfd3d3d/f///93d3d3/////3d3d3f//d//d3d3/EXd3d93d3f////9/3d39/////x/d3X93d3d3d939d3d3d3d33f13d3d3d3fd/REREREREQ==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "spiky tile 1"
-    },
-    "tile8": {
-        "data": "hwQQABAAAADd/REREREREd39d3d3d3d33f13d3d3d3fd3X93d3d3d93d/f////8f3d3d/////3/d3d3/EXd3d93d3d3//3f/3d3d3f/////d3d3d/f///93d3d39f3cX3d3d3d3/dxfd3d3d3f1/F93d3d3d/f//3d3d3d3d/xHd3d3d3d3dcQ==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "spiky tile 2"
     },
     "tile3": {
         "data": "hwQQABAAAADd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3Q==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "the ground"
-    },
-    "tile9": {
-        "data": "hwQQABAAAADdfXd33Xd3930XEXd3d3f3d3F3d3d3d/d3d3d3d3d393fX3d3dfXf/3d13d3d3d/d/9////3d39393d3f/f3/3d3d3d3d3f/d3d3d3d3f//3d3////////f3d/d3f39/9/d393d3/3//93//////f//f//////39/d3d3d3d3d3w==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "snail lookin tile green"
-    },
-    "tile10": {
-        "data": "hwQQABAAAADd3X3Xd3fd3d3dfXd3d9fd3X1393d/1919d/d3d3d//d19d3f3d3f/d/d393d3iPh9d3d3d3eH+Hd393d3/4j493d393f/j/j/f3f3//eP+H///////9f///////ff3f//9//3/9/d//3//////93f3f3////f3d/d/d3939/d3w==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "tree or bush i dont know"
     },
     "tile11": {
         "data": "hwQQABAAAADdTURE3URE9E0UEURERET0REFERERERPRERERERERE9ETU3d3dTUT/3d1ERERERPRP9P///0RE9E9ERET/T0/0RERERERET/RERERERET//0RE////////T0RPRET09P9PRE9ERE/0//9E//////T//f//////39/d3d3d3d3d3w==",
@@ -94,12 +46,6 @@
         "tilemapTile": true,
         "displayName": "legend of zelda brown tile 0"
     },
-    "tile1": {
-        "data": "hwQQABAAAAB313d3d9d393d3d3d3d//df3d3d/f/3Xf9/////9931//f3d3d3Xd33313d3f/d3d9d3d3d/f313d3d3d3d//3d3d3d3f//993d3d3d3d3/393d93d3d3/f3fXd3d3d9f9f9d3d3d31///93d3d3f/93f3f/f////X/9/9/93d3w==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "legend of zelda green tile 1"
-    },
     "tile18": {
         "data": "hwQQABAAAAD/////M/P//////y8iIvL/////IiIiIv///y8SISLyLx8zEhEi/y8iMzMRISIiIjIT//MRESIiMjMz8xERISIiMzPzEREhIiIzM/MRESEiIhP/8xERIiIyMzMRISIiIjIfMxIRIv8vIv//LxIhIvIv////IiIiIv////8vIiLy/w==",
         "mimeType": "image/x-mkcd-f4",
@@ -130,18 +76,6 @@
         "tilemapTile": true,
         "displayName": "idk"
     },
-    "tile22": {
-        "data": "hwQQABAAAADd3d3d3d39/93d3d3d3f//3d3d3d39d/fd3d3d3X93d93d3d3d393d3d3d3f3////d3f///////939//9/d3f33f93d3d3d3fdf3d3d3d3d91/d3d3d3d33f///////3fdf3d3d3d3f913d3d3d3d//d3dd3d313f9///d3d3d3Q==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "legend of zelda corner tile 0"
-    },
-    "tile23": {
-        "data": "hwQQABAAAAD9///d3d3d3f3d3Xd3d9d33Xd3d3d3d3/df3d3d3d3f93///////933X93d3d3d3fdf3d3d3d3d93/d3d3d3d33f3//393d/fd3f///////93d3d39////3d3d3d3f3d3d3d3d3X93d93d3d3d/Xf33d3d3d3d///d3d3d3d39/w==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "legend of zelda corner tile 5"
-    },
     "tile24": {
         "data": "hwQQABAAAABEREREREREhPRERERERPT0RERERERERPRERERERERE9ERERERERET0RERERERERPT0RERERET09ERERERERET0//////////9EREREREREhPRERERERPT0RERERERERPRERERERERE9PRERERERPT0RERERERERPTw////////jw==",
         "mimeType": "image/x-mkcd-f4",
@@ -154,14 +88,71 @@
         "tilemapTile": true,
         "displayName": "water with purple"
     },
-    "level5": {
-        "id": "level5",
-        "mimeType": "application/mkcd-tilemap",
-        "data": "MTAxMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
-        "tileset": [
-            "myTiles.transparency16"
-        ],
-        "displayName": "level5"
+    "tile1": {
+        "data": "hwQQABAAAADM3MzMzNzM/MzMzMzMzP/dz8zMzPz/3cz9/////9/M3P/f3d3d3czM383MzMz/zMzNzMzMzPz83MzMzMzMzP/8zMzMzMz//9/MzMzMzMzM/8/MzN3d3d3/z8zczMzMzNz9z9zMzMzM3P///MzMzMz//Mz8z/z////c/9/9/93d3w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "legend of zelda green tile 1"
+    },
+    "tile2": {
+        "data": "hwQQABAAAADd3d3d3f//38zNzMzM3d3f/MzMzMzMzN38zMzMzMz83cz////////dzMzMzMzM/N3MzMzMzMz83czMzMzMzP/dz8zM/P//393////////d3f///9/d3d3d3d393d3d3d3MzPzd3d3d3c/M393d3d3d///d3d3d3d3/393d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "legend of zelda corner tile 1"
+    },
+    "tile7": {
+        "data": "hwQQABAAAADd3d3d3d3dwd3d3d3d3f8R3d3d3d39///d3d3d3f3PHN3d3d3d/8wc3d3d3f3PzBzd3d3d/f///93d3d3/////3d3d3f//zP/d3d3/EczMzN3d3f/////P3d39/////x/d3c/MzMzMzN39zMzMzMzM3f3MzMzMzMzd/REREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "spiky tile 1"
+    },
+    "tile8": {
+        "data": "hwQQABAAAADd/REREREREd39zMzMzMzM3f3MzMzMzMzd3c/MzMzMzN3d/f////8f3d3d/////8/d3d3/EczMzN3d3d3//8z/3d3d3f/////d3d3d/f///93d3d39z8wc3d3d3d3/zBzd3d3d3f3PHN3d3d3d/f//3d3d3d3d/xHd3d3d3d3dwQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "spiky tile 2"
+    },
+    "tile23": {
+        "data": "hwQQABAAAAD9///d3d3d3f3d3czMzNzM3czMzMzMzM/dz8zMzMzMz93////////M3c/MzMzMzMzdz8zMzMzMzN3/zMzMzMzM3f3//8/MzPzd3f///////93d3d39////3d3d3d3f3d3d3d3d3c/MzN3d3d3d/cz83d3d3d3d///d3d3d3d39/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "legend of zelda corner tile 5"
+    },
+    "tile9": {
+        "data": "hwQQABAAAADdzczM3czM/M0cEczMzMz8zMHMzMzMzPzMzMzMzMzM/Mzc3d3dzcz/3d3MzMzMzPzP/P///8zM/M/MzMz/z8/8zMzMzMzMz/zMzMzMzMz//8zM////////z8zPzMz8/P/PzM/MzM/8///M//////z//f//////39/d3d3d3d3d3w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "snail lookin tile green"
+    },
+    "tile10": {
+        "data": "hwQQABAAAADd3c3czMzd3d3dzczMzNzd3c3M/MzP3N3NzPzMzMzP/d3NzMz8zMz/zPzM/MzMiPjNzMzMzMyM+MzM/MzM/4j4/MzM/Mz/j/j/z8z8//yP+M///////9z///////zf3f///P/8/9/d//3//////93f3f3////f3d/d/d3939/d3w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tree or bush i dont know"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAD/393d3d3d3f//3d3d3d3dz8zf3d3d3d3MzPzd3d3d3d3d/d3d3d3d////393d3d3////////d3c/MzPz//9/dzMzMzMzM/93MzMzMzMz83czMzMzMzPzdzP///////938zMzMzMz83fzMzMzMzMzdzM3MzMzd3d/d3d3d3f//3w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "legend of zelda corner tile 2"
+    },
+    "tile22": {
+        "data": "hwQQABAAAADd3d3d3d39/93d3d3d3f//3d3d3d39zPzd3d3d3c/MzN3d3d3d393d3d3d3f3////d3f///////939///PzMz83f/MzMzMzMzdz8zMzMzMzN3PzMzMzMzM3f///////8zdz8zMzMzMz93MzMzMzMzP/d3dzMzM3Mz9///d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "legend of zelda corner tile 0"
+    },
+    "tile6": {
+        "data": "hwQQABAAAADd3d3d3d39/93d3d3d3f//3d3/////zPzd/c/MzM/MzN39zMzM393d3f3MzPz////d/f///////93////PzMz8/f/MzMzPzPz/z8zMzM/Mz8/MzMzMz8zPz////////8zPz/zPzM/Mz8zM/8zM/8zP/N3dzMzM38z8///d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "legend of zelda corner tile 3"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAD9///d3d3d3f3d3czMzN/M3cz/zMz/zM/dz/zPzM/Mz93////////M3c/MzMzPzM/dz8zMzM/Mz93/zMzMz8z83f3//8/MzPzd3f///////93d3d39////3d3d3d3f3d3d3d3d3c/MzN3d3d3d/cz83d3d3d3d///d3d3d3d39/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "legend of zelda corner tile 4"
     },
     "old man cave2": {
         "id": "old man cave2",
