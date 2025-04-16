@@ -10,6 +10,14 @@ controller.up.onEvent(ControllerButtonEvent.Pressed, function () {
     true
     )
 })
+scene.onOverlapTile(SpriteKind.Player, assets.tile`idk`, function (sprite, location) {
+    tiles.placeOnTile(mySprite, tiles.getTileLocation(8, 11))
+    tiles.setCurrentTilemap(tilemap`level`)
+})
+scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile6`, function (sprite, location) {
+    tiles.placeOnTile(mySprite, tiles.getTileLocation(122, 126))
+    tiles.setCurrentTilemap(tilemap`the level`)
+})
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile`, function (sprite, location) {
     tiles.placeOnTile(mySprite, tiles.getTileLocation(32, 33))
     tiles.setCurrentTilemap(tilemap`old man cave`)
