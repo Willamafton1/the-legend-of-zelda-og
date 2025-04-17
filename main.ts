@@ -38,7 +38,7 @@ scene.onOverlapTile(SpriteKind.Player, assets.tile`old mans wooden sword`, funct
     game.showLongText("Its dangerous to go alone here take this!", DialogLayout.Top)
     pause(1000)
     tiles.setCurrentTilemap(tilemap`old man cave0`)
-    info.setScore(1)
+    sword_points = 1
 })
 controller.right.onEvent(ControllerButtonEvent.Released, function () {
     animation.stopAnimation(animation.AnimationTypes.All, mySprite)
@@ -71,6 +71,7 @@ controller.down.onEvent(ControllerButtonEvent.Pressed, function () {
 info.onLifeZero(function () {
     music.setVolume(255)
 })
+let sword_points = 0
 let mySprite: Sprite = null
 namespace userconfig {
     export const ARCADE_SCREEN_WIDTH = 260
@@ -85,7 +86,7 @@ forever(function () {
     scene.cameraFollowSprite(mySprite)
 })
 forever(function () {
-    if (info.score() == 1) {
+    if (sword_points == 1) {
         if (controller.A.isPressed()) {
             if (controller.right.isPressed()) {
                 mySprite.setImage(assets.image`right standing link`)
@@ -102,7 +103,7 @@ forever(function () {
     }
 })
 forever(function () {
-    if (info.score() == 1) {
+    if (sword_points == 1) {
         if (controller.A.isPressed()) {
             if (controller.left.isPressed()) {
                 mySprite.setImage(assets.image`left standing link`)
