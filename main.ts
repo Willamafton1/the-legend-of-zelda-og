@@ -87,15 +87,34 @@ forever(function () {
 forever(function () {
     if (info.score() == 1) {
         if (controller.A.isPressed()) {
-            mySprite.setImage(assets.image`right standing link`)
-            pause(100)
-            animation.runImageAnimation(
-            mySprite,
-            assets.animation`link right sword`,
-            100,
-            false
-            )
-            mySprite.setImage(assets.image`right standing link`)
+            if (controller.right.isPressed()) {
+                mySprite.setImage(assets.image`right standing link`)
+                pause(100)
+                animation.runImageAnimation(
+                mySprite,
+                assets.animation`link right sword`,
+                100,
+                false
+                )
+                mySprite.setImage(assets.image`right standing link`)
+            }
+        }
+    }
+})
+forever(function () {
+    if (info.score() == 1) {
+        if (controller.A.isPressed()) {
+            if (controller.left.isPressed()) {
+                mySprite.setImage(assets.image`left standing link`)
+                pause(100)
+                animation.runImageAnimation(
+                mySprite,
+                assets.animation`link left sword`,
+                100,
+                false
+                )
+                mySprite.setImage(assets.image`left standing link`)
+            }
         }
     }
 })
