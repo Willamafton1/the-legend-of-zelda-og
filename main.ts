@@ -119,3 +119,37 @@ forever(function () {
         }
     }
 })
+forever(function () {
+    if (sword_points == 1) {
+        if (controller.A.isPressed()) {
+            if (controller.down.isPressed()) {
+                mySprite.setImage(assets.image`link`)
+                pause(100)
+                animation.runImageAnimation(
+                mySprite,
+                assets.animation`link stab down`,
+                200,
+                false
+                )
+                mySprite.setImage(assets.image`link`)
+            }
+        }
+    }
+})
+forever(function () {
+    if (sword_points == 1) {
+        if (controller.A.isPressed()) {
+            if (controller.up.isPressed()) {
+                mySprite.setImage(assets.image`link looking up 1`)
+                pause(100)
+                animation.runImageAnimation(
+                mySprite,
+                assets.animation`link stab up`,
+                200,
+                false
+                )
+                mySprite.setImage(assets.image`link looking up 1`)
+            }
+        }
+    }
+})
